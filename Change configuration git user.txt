@@ -1,0 +1,5 @@
+$ git config user.name "Alex"
+
+$ git config user.email "Alex@example.com"
+
+$ git config credential.username "your_account_name_here"
